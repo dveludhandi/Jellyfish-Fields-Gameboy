@@ -1,0 +1,23 @@
+Unknown configuration key throttle
+vbam: could not connect to socket
+vbam: No such file or directory
+VBA-M (BBA) [SDL]
+Searching for file vbam.cfg
+Searching current directory: /home/deepti/Downloads/HW9
+Searching home directory: /home/deepti/.vbam
+Searching data directory: /usr/share/vbam
+Searching system config directory: /etc
+Reading configuration file.
+Searching for file vba-over.ini
+Searching current directory: /home/deepti/Downloads/HW9
+Searching home directory: /home/deepti/.vbam
+Searching data directory: /usr/share/vbam
+Searching system config directory: /etc
+vba-over.ini NOT FOUND (using emulator settings)
+Trying patch deepti-storybook.ips
+Trying patch deepti-storybook.ups
+Trying patch deepti-storybook.ppf
+Trying to start LIRC: Failed
+Color depth: 32
+Shutting down
+16:55:47 15.07.2018: Wrote battery
